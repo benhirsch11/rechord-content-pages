@@ -1,0 +1,40 @@
+######About
+
+Rechord lets musicians find one another, and create songs together remotely.
+
+Music is a form of communication and self expression, it's a social endeavor. The beauty and the fun comes from sharing and working together with others.
+It's our goal to create a community that recognizes efforts, connects players of all levels around the world, and allows for remote and spontaneous collaboration. We want to create a platform that will help musicians spark one another's creativity and produce long lasting musical partnerships. 
+Discover, Share, Create
+
+######Team
+Ben Hirsch –  Musician with 15 years experience, finance graduate from Stevens Institute of Technology with startup sales experience. Passionate about bringing people together, fascinated by the creative process.
+
+Tomek Marchi – Software developer passionate about collaboration. Founded Lnkit, Acid.JS, Real time encryption & Security guru. (add whatever you want here.)
+
+######Rules
+Discover, Share, Create
+Browse original submissions recorded by artists of all levels from all over the world, and if you hear something you like, add your own flavor to it! 
+You don’t even need an instrument. Like a strings riff you heard? You can add a rhythm to it by tapping your pencil against your desk. 
+Sitting in your room jamming by yourself? If you think of something catchy, record and submit it right away. Let the world contribute to it and turn that catchy riff into a complete song. The beauty of Rechord is that this one submission could turn into 10 different songs.  Use this site to capture and share fleeting musical ideas with world!
+
+Collaboration is the sweetest aspect of being a musician. Improvised self-expression with other people, sharing and creating with others, is the very reason players hone their skills in their own bed-rooms for long hours. The truth is however, that the vast majority of players never get to mix with others, or mix with other's on a big enough scale to find great partners. We want to fix this.
+
+######Technology
+Federal grade encryption technology. Data via web sockets instead of file requests. Multiple Language handling. Etc (add whatever you want to hear)
+Contact
+Email: benhirsch5@gmail.com
+Phone: 201-655-9661
+
+
+
+
+
+
+
+
+
+
+
+
+
+
