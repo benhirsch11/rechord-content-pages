@@ -1,2 +1,9 @@
-Email: benhirsch5@gmail.com
-Phone: 201-655-9661
+{
+
+	"content": `Email: benhirsch5@gmail.com
+Phone: 201-655-9661`,
+
+	"title": 'Contact',
+	"description":'Information to contact us',
+	"pageTitle": 'Contact'
+}

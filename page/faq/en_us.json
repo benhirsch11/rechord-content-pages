@@ -1,4 +1,6 @@
-`######Why Rechord?
+{
+
+	"content": `######Why Rechord?
 Building songs with other musicians allows each individual to improve their skill and push their creative limits!
 On Rechord you will have the chance to share and collaborate with musicians from all over the world. Browse content
 and contribute to whatever you like!
@@ -31,4 +33,9 @@ the community is the ultimate reward in any creative field, if your song rises h
 bigger variety of musicians from all over the world!
 
 ######What if I accidentally post something?
-You can delete your submission. If you accidentally post a collaboration you can delete that too.`
+You can delete your submission. If you accidentally post a collaboration you can delete that too.`,
+
+	"title": 'FAQ',
+	"description": 'Answers to potential FAQ's,
+	"pageTitle": 'FAQ'
+}
